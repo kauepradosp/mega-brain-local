@@ -1,0 +1,305 @@
+All right, boys. So, today we're going
+to talk about Reddit, and specifically
+farming karma. And honestly, this looks
+like the basic bot. It's the bot
+everyone thinks they've got, and it's
+also the bot that gets the most accounts
+banned before they posted a single thing
+for the model. So, I'm going to go over
+the setup first, because if the setup's
+wrong, nothing after it matters. Then,
+the two ways I get comment karma, then
+how I get post karma, and at the end,
+I'll show you what the full version of
+this looks like when a VA runs it every
+day. So, without wasting any time, let's
+get into it. Here's why this video
+exists. Most accounts are banned before
+the first promotional post, not after,
+before. A guy makes an account, starts
+commenting the same afternoon, gets
+banned in 2 days, and thinks Reddit
+hates him. Reddit doesn't hate him. The
+account was dead the second it was
+created, and he never found out why. And
+that's what we're fixing. So, the order,
+and I'm showing it as a thread, because
+that's how it stacks. Setup, build the
+account right, clean IP, your own Gmail,
+one phone, then warm up. Two to three
+weeks of looking like a person who uses
+Reddit, then karma. Comment karma and
+post karma until the subreddit lets you
+in. And then, only then you can do
+promotions, because the account has
+trust by that point. So, you won't get
+banned. Skip one step of the above, and
+it falls over every time. Section one,
+account setup. The part everyone skips,
+and if you get one of these wrong,
+nothing after it works. And I'll say
+that again at the end of the section,
+because it's that important. Reddit's
+ban structure, and this is the thing
+nobody tells you. One ban on your home
+Wi-Fi, and that IP is finished. Look at
+the diagram. Wi-Fi, one IP, account one
+gets banned, account two has the same
+IP, banned as well. Account three, same
+IP, banned, because Reddit remembers the
+IP, not the username. So, every new
+account you make on a burned connection
+dies fast, and you sit there thinking
+it's your content or subreddit rules or
+something else. And that's why the whole
+system runs on mobile data, which gives
+you a clean IP per account, and it's why
+buying account also fails, because if an
+account was made somewhere else, and you
+log in from here, the geolocation never
+matches, and it's flagged on the first
+login. So, here's the setup. Android
+phone, SIM card, mobile data from SIM
+card, and you make a Reddit account on
+that phone with a Gmail. One Android per
+account, and a cheap Android is fine.
+Nobody's filming on it. One phone, one
+account, nothing shared. A physical SIM
+with data and Wi-Fi toggled off and left
+off, and that's your clean IP. You make
+the account yourself on that phone on
+that data. Never buy, never import, and
+make it with a Gmail account, not an
+Outlook. I'll cover why in the next
+slide. The email provider changes your
+trust score before you post it anything.
+It sounds small, but it isn't. Because
+Gmail is harder to grade, so Reddit
+reads it as a real person. Whereas an
+Outlook account is easy to spin up in
+bulk, so Reddit reads it as a farm. On
+its own is a small edge, but stacked
+with a clean IP and a warm-up is a
+difference between an account that gets
+flagged on comment 10 and one that
+doesn't. Now, before your first comment,
+get one of these wrong and nothing else
+works. Have a clean IP like I said, your
+own account you made on that phone with
+a Gmail address. If you skip one of
+this, every banner looked at traces back
+to one of these four. And the agency was
+always convinced it was the content.
+It's never the corner at this stage,
+it's the setup. Section two, why karma
+matters. Two reasons and they're
+connected. Reason one, the subreddit
+require it. It's written on the door.
+Now, this is a normal subreddit. Pinned
+at the top, you can see new rules,
+account age, and karma minimums. Most of
+the subreddits that actually convert for
+a model have exactly this. 100 post
+karma or 100 comment karma is a common
+gate. Some want more, some want the
+account to be a certain age. Months old,
+two months old, year old. Your fresh
+account that you made yesterday can't
+even post there. And if it somehow does,
+the post gets removed and now the
+account's flagged for trying. Reason
+two, trust. Reddit scores every account
+on how much it looks like a contributor.
+That's the CQS thing you've seen
+mentioned. Having a high karma feeds it.
+A higher karma, a higher CQS score. And
+if you have a higher score, your posts
+don't get eaten by the spam filter. So,
+you get reach and reach gives you more
+karma. It's one loop. You're either
+feeding it or fighting it. Section
+three, comment karma. I'll show you two
+methods and they both work on the same
+ID. Method one, you find new posts under
+two hours old that are about to move.
+So, I don't go into random posts and
+comment. I go to a subreddit or my home
+feed, doesn't matter, and I sort by new.
+I'm looking for something fresh under
+two hours that's already got comments
+coming in. And then I read the top
+comments. I see the take that post
+already has, what people are agreeing
+with, and I write a quick reply that
+says the same thing cleanly. People note
+they like my comment, they upvote cuz I
+agree with them. Now, why it works. If
+you comment on a 10-hour-old post and
+nobody sees it, doesn't matter how good
+it is. Comment early on one that's
+climbing and you climb with it. Method
+two, piggyback the top comment on a post
+that already went viral. Go to top on a
+subreddit and sort by today. Open a post
+with thousands of upvotes. Open the
+comments and sort by top. That first
+comment is the first thing every single
+visitor sees when they open the thread.
+Your reply sits right under it. So,
+basically you get the same visibility.
+If it's a good reply and people agree,
+it gets upvoted. The rule behind both
+methods, people upvote what they already
+agree with. You're not trying to be
+clever, you're trying to say the thing
+the room is already thinking. And that's
+the whole of comment karma. Everything
+else is just about timing. Section four,
+post karma. And I keep this one really
+simple. Cute animal content that already
+performed on Instagram. So, basically
+you go on Instagram, you find animal
+stuff that already pulled numbers like
+cats, dogs, funny videos. You know those
+cute cat videos that already went viral?
+Download it. And if it worked on
+Instagram, it almost always work on
+Reddit. Post it in a matching animal
+subreddit. And this is the important
+part. Subreddits that actually have
+reach. You only post that. Cuz if a
+subreddit is dead and gets you no views,
+no upvotes, no karma. And paste it. One
+or two posts a day alongside your
+comments. Don't do 15 a day cuz that's
+spam. Now, the part people miss, the
+subreddit choice matters as much as the
+content. You can post the same funny or
+cute cat video to get post karma on two
+different subreddits. One's active, the
+post gets a few hundred upvotes by
+lunch. The other is dead and it gets
+four, which is why the list of where to
+post is worth more than any single piece
+of content. Here's what a farmed account
+actually looks like. 12,000 karma, 5,000
+posts, 6,000 comment, 8 months old. This
+account clears every gate on every
+subreddit that matters. And Reddit
+treats it as a contributor. There's the
+asset you're aiming to build. It takes
+weeks and honestly, it's worth every one
+of them because one of these is worth
+more than 20 accounts that you buy
+somewhere that get banned right away.
+Now, the timeline from a blank phone to
+a posting account. Day one through
+three, create and scroll, nothing else.
+Day four through 15, one or two upvotes
+a day, one comment a day to get comment
+karma. Join some safe for work
+subreddits. Day 15 through 21, comment
+karma daily with both methods and one or
+two animal posts a day. Day 22 and
+onwards, karma's cleared and now the
+model posts start on schedule. The exact
+daily numbers, when to post, when to
+comment, how long to wait between them,
+there's an entire SOP. Now, how people
+still get banned in the order I see it.
+They're running accounts on Wi-Fi. And
+as I said, one burner IP takes every
+account after it. So, if you had an
+account burn on your home IP or your
+office IP, and you're running another
+account on that same IP, you're going to
+get banned. Next, buying accounts. As I
+said, if an account was made in New York
+and you're logging on Texas, you're
+going to get banned. Not warming up the
+account. Commenting on day one reads as
+a bot. Spamming posts. 15 posts a day
+gets you flagged, not upvoted. And
+basically just trying to get karma on
+dead subreddits, which isn't a ban, it's
+worse. It's effort with no reach, no
+karma, and you quit. Now, section five.
+And this is the part I don't put on
+YouTube. Look, you've got the method now
+and what I showed you is free. Now, what
+comes next is what the method looks like
+when a VA runs it every day without
+thinking about it. And I'm going to show
+you rather than tell you. So, what you
+got today is on the left and what my
+students get is on the right. On the
+left side is free, this video. The
+setup, why karma matters and how Reddit
+scores you, both karma methods, the post
+method, the shape of the timeline. On
+the right side, inside OFM Vault Pro,
+which is my course and my private
+community on Discord, you get the karma
+farming SOPs my VAs actually follow,
+step-by-step, the daily workflow
+schedule, when to comment, when to post,
+how long to wait, the Reddit master
+list, 2,500 subreddits, fully filterable
+by verification, if a subreddit has it
+or not, how much karma requirement you
+need before posting, how old the account
+should be. Next, you also get access to
+a list of 200 zero karma requirement.
+Next, you also get access to a list of
+200 zero karma required subreddits to
+start posting on day one. And you also
+get access to my private community with
+over 170 plus students running the same
+strategy as you are. This is the
+document a VA opens at the start of a
+shift. Which subreddits to post today,
+how many comments, how many posts, what
+to say, what time, how long in between
+posting. It exists so nobody on my team
+has to think about Reddit. They just run
+it. 14 pages. It took two years of
+banned accounts to write and I'm not
+putting it on YouTube for free. That's
+what my students get when they join my
+community. The Reddit master list. Every
+subreddit tagged by niche, size, minimum
+karma requirement, verification and not
+safe work rules. You filter it and you
+know exactly where a fresh account can
+post today and where it can post in
+three weeks. I've blurred the subreddit
+names, obviously. Building this by hand
+is your first two months on Reddit. You
+don't have to do this. It's already
+built and you get access to it once you
+join my community. And this is what it
+looks like when a member actually runs
+it. Two screenshots from my community.
+Last 30 days net. First one, a new model
+in his words, is going like crazy on
+Reddit and made 27,900
+net in 30 days. The second one, traffic
+coming from Reddit, all paid
+subscribers, 24,200
+net following the same SOPs, same
+subreddit list, two different guys. All
+of it inside OFM War Room, bro. My
+course and my private community. Inside
+you'll find the Reddit SOPs and the
+master list. Plus you learn Instagram
+marketing strategies, Threads marketing,
+alongside with an automatic following
+bot. You get access to it for free.
+Snapchat marketing, TikTok marketing,
+and access to my full chatting course.
+You can join by clicking the school link
+in the description. And last thing,
+after this video go set up one phone
+tonight, one Android, get a SIM card,
+make a Gmail account, scroll for 3 days.
+this video.

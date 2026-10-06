@@ -1,0 +1,287 @@
+If you do SMMA, watch this video
+closely because I'm going to show you a
+bot that will allow you to automate
+your TikTok or Instagram accounts from
+A to Z. It's a bot that lets me manage
+hundreds of accounts and it has brought
+me tens of millions of views over the
+last few days. This is one of the first
+videos you'll see on this subject. You
+should know that in a few months, the
+entire SMMA market will be getting into
+it. All the biggest agencies will have
+bots that will manage hundreds and
+hundreds of accounts. If you want to
+get ahead of your entire market and
+have a bot that can automate your
+entire content distribution, watch this
+video until the end. So before getting
+into the core of the value, I'll
+explain what Gillark is because there
+are still people who don't know what it
+is. Gillark is simply software that
+will allow you to manage hundreds or
+even thousands of phones, whether
+automatically or with VAs. So if you
+manage it with VAs, watch this video
+closely because it will allow you to
+stop using VAs and automate it 100%.
+And those who use Gillark's automations
+, you will have an alternative to them.
+This way, you can avoid getting your
+accounts banned, since the automations
+that Gillark puts in place are the same
+for everyone. But anyway, we'll come
+back to that in this video. So, what is
+the bot I created actually going to be
+used for? It will, of course, connect
+the accounts automatically, whether
+they are Instagram or TikTok accounts.
+To connect them automatically, you will
+need two-factor codes in the accounts
+you buy from your providers. If these
+are accounts you buy that only have the
+username, password, email, and email
+password, you won't be able to connect
+the accounts automatically. So there
+you go, I prefer to say it. So accounts
+with two-factor codes are a bit more
+expensive, but it saves you from having
+to log into emails and receive
+verification codes. You just give the
+information your provider gave you to
+the cloud or the bot, and it performs
+the login automatically. Then, of
+course, there's the automatic warmup
+and, naturally, it bypasses pop-ups. So
+, in the warmup, we naturally include
+setting up a bio, setting up a profile
+picture, changing the username if
+needed, changing the display name,
+posting stories, and so on and so forth
+. And of course, at the end of the
+warmup, it will start posting and
+continue with a cruising-speed warmup
+like a real human, because many people
+only do a one-week warmup. Then, they
+post but they don't do any more warmup.
+Next, the results that it brought me.
+So here, there you go, I'm zooming out.
+We are at over 50 million views over
+the last 30 days. I haven't put all my
+accounts here, but well, if I had to
+put all my accounts, there would be
+over 100. But this way, you have an
+idea of the views I get thanks to my
+automations. So here, as you can see,
+18 million views over the last 7 days,
+and here 72 million views over the last
+28 days, though. And of course, we also
+show the flops, 87,000 views over the
+last seven days. But there you go, for
+the average stats, we are between
+300,000 and 1 million views every 7
+days. And here, each screen you see,
+therefore, corresponds to a phone. Now,
+how are we going to use the bot
+concretely? There's just one thing to
+do, which is connecting Guilar to the
+bot. Then, you will be able to create
+categories based on your phones. For
+example, if you have one model or two
+models, you can categorize the phones
+according to the models. If you have
+different niches, you can make a
+category per niche. Then, we will move
+on to the creation of the workflow. You
+will see that in a moment. As soon as
+the workflow is created, you will be
+able to select the phones that will
+take action. So if you don't want every
+phone in a category to take action,
+well, you can deselect them right here.
+And then, we will click on launch and
+the automation will start all by itself
+. So, before showing you the creation
+of the workflow, I will show you the
+RPAs you will have access to for TikTok
+. You should know that when you see
+these screens, you might say, "OK, but
+it's the same thing that Guillark
+offers." We will come back to that
+later, but the RPAs you see here are
+coded in a completely different way
+than those Guilar will offer you. So
+first off, you will be able to choose
+the behavior of each RPA. So for
+example, during login, for how your
+account types its credentials, you can
+choose whether it types quickly,
+normally, or slowly. So for me, I'm
+going to set it to fast. And here, you
+will have some questions to pre-fill
+for all the RPAs. Once you've answered
+them, it's set in stone, and when you
+launch automations, it will happen
+automatically. Next, for the workflow,
+as you can see, you have access to all
+of this. So for example, if I want to
+simulate a realistic workflow, I'll set
+it to login. Next, I'll tell the bot to
+wait 22 to 28 hours before logging back
+in. I can tell it to add a bio, change
+the display name, start a warmup, wait
+another 22 to 28 hours, and so on and
+so forth. Essentially, this will save
+you from sending prompts to CL code.
+Here, you just have to fill in the
+boxes, press launch, and it will run
+all by itself. Now, for this video, we
+aren't going to launch a workflow that
+lasts a week, obviously. So, we're just
+going to do a targeted warmup to show
+you how it works. So once your workflow
+is ready, you click on save. Here, you
+will choose the phone category the
+workflow needs to act upon. And here, I
+can then select the phones on which the
+workflow will act. So, I've put my
+Gilark right next to you here. Once
+that's done, we'll click on launch.
+We'll choose if the phones start
+instantly or if they have a delay in
+launching. We'll set it to instant.
+We'll click on yes and it will launch.
+So, as you can see, they've been
+running for 3 minutes, and we'll open
+them to see if they are doing the job
+we asked of them. So, if you want to
+open a phone, you click on the little
+button right here. This will allow you
+to open the phone without disrupting
+the automation happening inside it. So
+here, as you can see, I've opened two
+phones, and on both phones, it's
+scrolling as you can see, and it
+correctly went to the niche we
+requested. So I had said, it seems to
+me, OFM and Sophie Rain for the niches.
+So here, on the left, as you can see,
+it just scrolled and, of course, I am
+touching absolutely nothing and, as you
+can see, it is indeed scrolling through
+the Sophie Rain niche on the left, and
+on the right, it is scrolling through
+the LFM niche. What we're going to do
+is let them finish and go back to our
+value of 7. Now, why is this tool super
+powerful if you use Guilark? As I told
+you at the beginning of the video,
+Guilark already provides automations
+for its clients. Except that these
+automations will do exactly the same
+thing for all of Guilark's clients.
+This means that when you launch a
+warmup with a Guilark automation, it
+will do exactly the same thing as all
+the other clients. So it will scroll at
+the same time, it will like exactly on
+the same pixel every single time. When
+it clicks on a button, it will press
+the pixel in the center of the button.
+This means all the phones have the same
+behavior. TikTok, Instagram, they flag
+these behaviors and they ban you or in
+the best case, they shadowban you, but
+they'll shadowban you before you've
+even posted your first video. Whereas
+the difference with the bot I just
+showed you is that just by answering
+simple questions, you can choose its
+behavior. On top of that, for example,
+when it scrolls, it will never press
+the same pixel. When it likes, it will
+never click in the same spot. When it
+clicks on a button, it will never click
+exactly in the center of the button
+every time. This means all your phones
+will have different behavior from one
+another. And even if you answer the
+same questions on the RPA form as
+another person, your phones will still
+act in a different way regardless. So
+there, I tried to make a simple diagram
+for the SECPA. So Guilark on the left,
+you have exactly the same behavior on
+all phones, whereas on the right,
+thanks to the bot, different
+automations on each phone, you'll have
+far fewer shadowbans, far fewer bans,
+and above all, you'll have human
+behavior on your phones. That's why
+those doing Guilark with VAs, who have
+good SOPs and know how to manage their
+VAs, make a lot of money because they
+have human behavior on their phones.
+While 99%of people in the Guillark
+market saw the automations Guillark was
+putting in place. They said, "Oh great,
+we're going to use them." And they got
+screwed. Next, the strategies to
+implement depending on the two social
+networks. So you should know that with
+the bot, you can use it for both TikTok
+and Instagram. So if you want early and
+free access to the bot, it will be
+available to members of my Guillark
+coaching program. So if you want to set
+up a cloud phone strategy for your
+models, send me a message at the link
+right below and I'll see how I can help
+you implement a Guillark strategy. Now,
+as for the strategies, you should know
+that on TikTok, we're really aiming for
+the long term. TikTok has far fewer
+bans than Instagram. However, the only
+downside to TikTok is that it requires
+a fairly long warmup. So one to two
+weeks if you really want to be secure.
+And another disadvantage of TikTok is
+that it still converts much less
+effectively than Instagram. Prospects
+on TikTok will be a bit less qualified
+than on Instagram, but your accounts
+will last much longer. Whereas on
+Instagram, it's the opposite; your
+accounts will last a very, very short
+time, but the quality of the leads you
+bring in will be much higher than on
+TikTok. That's why on Instagram—and
+honestly, it pains me to tell you this
+for free—the strategy that works best
+on cloud phones is the "Kamikaze"
+account method. You do zero warmup, you
+just put your story up with a link that
+redirects to your main account, you
+post 3 to 4 reels, and you log out of
+the account. If you've done your job
+well with the content, it will convert
+like crazy. However, if your content
+isn't good enough, then it won't be of
+any use. So, really ensure that whether
+it's on TikTok or Instagram, you have
+good content before you start scaling
+to hundreds or even thousands of phones
+. If you want to set all this up for
+your OF/FM agency, and you want to post
+hundreds and hundreds of reels or
+TikToks every day and massively
+increase your distribution, I've put my
+WhatsApp link in the description. And
+so, if you join my coaching program,
+you'll benefit from it for free as soon
+as the bot is released. With that, this
+video is coming to an end. I hope you
+enjoyed this video. Feel free to tell
+me in the comments what topics you want
+me to cover in a future video.
